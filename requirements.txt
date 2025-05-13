@@ -1,0 +1,7 @@
+parselmouth
+numpy
+librosa
+matplotlib
+scipy
+pydub
+
